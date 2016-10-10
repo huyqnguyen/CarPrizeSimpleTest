@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CarPrize
+﻿namespace CarPrize
 {
-    interface ICar
+    public interface ICar
     {
         float GetPrice();
     }
